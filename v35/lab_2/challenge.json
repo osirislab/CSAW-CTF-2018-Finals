@@ -1,0 +1,8 @@
+{
+    "name": "Lab 2",
+    "category": "v35",
+    "points": 75,
+    "description": "PwnAdventure Sourcery is here! Chrome is HIGHLY recommended. All challenges are intended to be solved in-game. \n\n<a href=\"https://sourcery.pwnadventure.com\"/>https://sourcery.pwnadventure.com</a>\n\nHotkeys:\n\n`WASD` : Navigate\n\n`<Space>` : Use Item/Select\n\n`E`/`Return`: Interact\n\n`I`/`<Tab>` : Inventory\n\n`<Escape>` : Pause/Menu/Cancel\n\n\n\n(Editor)\n\n`E` : Edit\n\n`N` : New\n\n`<Backspace>` Delete",
+    "flag": "flag{Programmable_Rodents_Are_The_Next_Big_Thing}",
+    "files": []
+}
